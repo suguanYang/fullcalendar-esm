@@ -1,4 +1,8 @@
 {
   "name": "fullcalendar",
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "@fullcalendar/core": "6.1.11",
+    "@fullcalendar/timegrid": "6.1.11"
+  }
 }
